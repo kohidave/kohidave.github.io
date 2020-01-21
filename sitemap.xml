@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kohidave.dev/posts/building-bad-lambda/</loc>
+    <lastmod>2020-01-20T20:57:39-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohidave.dev/posts/</loc>
+    <lastmod>2020-01-20T20:57:39-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kohidave.dev/</loc>
+    <lastmod>2020-01-20T20:57:39-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kohidave.dev/categories/</loc>
   </url>
   
   <url>
     <loc>https://kohidave.dev/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kohidave.dev/</loc>
   </url>
   
 </urlset>
