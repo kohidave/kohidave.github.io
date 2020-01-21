@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>very important thinkin 🧐</title>
-    <link>https://kohidave.dev/</link>
+    <link>https://kohidave.github.io/</link>
     <description>Recent content on very important thinkin 🧐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Jan 2020 20:57:39 -0800</lastBuildDate>
     
-	<atom:link href="https://kohidave.dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kohidave.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Building Bad Lambda</title>
-      <link>https://kohidave.dev/posts/building-bad-lambda/</link>
+      <link>https://kohidave.github.io/posts/building-bad-lambda/</link>
       <pubDate>Mon, 20 Jan 2020 20:57:39 -0800</pubDate>
       
-      <guid>https://kohidave.dev/posts/building-bad-lambda/</guid>
+      <guid>https://kohidave.github.io/posts/building-bad-lambda/</guid>
       <description>Here&#39;s a small confession, when I first joined the ECS team, I&#39;d spun up a container exactly once in my entire life and had no idea how to use ECS, at all. There was around a month between when I accepted the ECS offer and when I&#39;d actually start on the team, so this was my window to learn about containers, ECS, Fargate and everything else that I didn&#39;t know anything about.</description>
     </item>
     
